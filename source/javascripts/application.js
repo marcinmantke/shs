@@ -1,3 +1,10 @@
-//= require "bootstrap"
+//= require jquery.1.11.1
+//= require bootstrap
+//= require jasny-bootstrap.min
+//= require main
+//= require modernizr.custom
+//=require owl.carousel
+//= require SmoothScroll
+//= require typed
 //= require_tree .
 //= require_self
